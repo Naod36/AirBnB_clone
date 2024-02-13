@@ -1,2 +1,1 @@
-
-AirBnB Clone - The Console Project
+0x01. AirBnB clone
